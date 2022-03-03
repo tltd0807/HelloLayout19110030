@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HelloLayout19110030</string>
+    <string name="bag_text">Vargabond sack</string>
+    <string name="glass_text">Stella\nsunglasses</string>
+    <string name="ring_text">Whitney belt</string>
+    <string name="bell_text">Garden stand</string>
+    <string name="thing_text">Things</string>
+    <string name="short_text">White shortes</string>
+
+
+    <string name="bag_price">$120</string>
+    <string name="glass_price">$58</string>
+    <string name="bell_price">$35</string>
+    <string name="ring_price">$98</string>
+    <string name="thing_price">$15</string>
+    <string name="short_price">$20</string>
+</resources>
